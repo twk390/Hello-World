@@ -2,4 +2,4 @@
 My first repo
 
 Hi all,
-Tony here newbie trying to learn some coding.
+Tony here, a newbie trying to learn some coding.
